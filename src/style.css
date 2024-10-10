@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-half {
+  width: 50%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-half {
+  height: 50%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.p-5 {
+  padding: 20px;
+}
+
+.mr-2px {
+  margin-right: 2px;
+}
+
+.mb-2px {
+  margin-bottom: 2px;
+}
+
+.mb-2 {
+  margin-bottom: 8px;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.border-right-white {
+  /* border-right: 2px solid #fff; */
+}
+
+.h-91vh {
+  height: 91vh;
+}
+
+.h-98-perc {
+  height: 98%;
+}
+
+.h-99-perc {
+  height: 99%;
+}
